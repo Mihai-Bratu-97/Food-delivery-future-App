@@ -1,7 +1,7 @@
 # Food delivery future App
 The purpose of this application, that is not finished yet, is for creating a new account for an employee, and then another app will communicate with another one, 
-and so on. When the app will be finished, will be an food delivery app, such as Glovo or FoodPanda. All of this will be doing using Python and its libraries(such as
-Tkinter, for graphic, csv for stocking the information, for now and so on). For the moment, it works only on windows.
+and so on. When the app will be finished, will be an food delivery app, such as Glovo or FoodPanda. All of this will be doing using Python along with its libraries
+(such as Tkinter, for graphic, csv for stocking the information, for now and so on). For the moment, it works only on windows.
 
 # Install Python
 First of all, you have to install python in your pc, if you don't have it already. You can download it even from microsoft store, or you can download it
