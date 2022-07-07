@@ -20,9 +20,9 @@ For installing pandas, you have to type in in the terminal of the IDE you are us
 ## OS
 For installing OS, you have to type in in the terminal of the IDE you are using:
 
-```pip install os-sys``
+```pip install os-sys```
 
 ## CSV
 For installing CSV, you have to type in in the terminal of the IDE you are using:
 
-```pip install python-csv``
+```pip install python-csv```
